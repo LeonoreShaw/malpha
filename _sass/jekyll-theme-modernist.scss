@@ -288,9 +288,17 @@ footer {
     font-weight:bold;
   }
 
-  p {
-    float:left;
+  .f1 {
+    float: left;
   }
+
+  .f2 {
+    float: right;
+  }
+
+  // p {
+  //   float:left;
+  // }
 
   // p + p {
   //   float:right;
