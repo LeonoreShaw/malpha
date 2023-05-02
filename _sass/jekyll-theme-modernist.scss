@@ -292,9 +292,9 @@ footer {
     float:left;
   }
 
-  p + p {
-    float:right;
-  }
+  // p + p {
+  //   float:right;
+  // }
 }
 
 @media print, screen and (max-width: 740px) {
